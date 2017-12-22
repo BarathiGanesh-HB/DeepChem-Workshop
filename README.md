@@ -1,1 +1,1 @@
-# DeepChem-Workshop
+# DeepChem 2017 - Workshop materials
